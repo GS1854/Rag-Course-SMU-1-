@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets Everywhere",
+  "description": "Live overview of global market indices, US stock movers, crypto, commodities, and interactive trading charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
